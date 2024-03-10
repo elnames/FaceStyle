@@ -35,3 +35,8 @@ El proyecto "beard" consiste en desarrollar una aplicación web y móvil que rec
 * Diseñar una arquitectura escalable y modular de la aplicación.
 * Implementar buenas prácticas de ingeniería de software.
 * Permitir el fácil mantenimiento y extensión de funcionalidades en el futuro.
+
+4. **Fourth question in bold**
+| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
+|:--------------|:-------------:|--------------:|
+| text-align left | text-align center | text-align right |
