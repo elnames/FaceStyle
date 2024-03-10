@@ -17,7 +17,7 @@
 * El sistema debe recolectar datos de uso, aceptación de recomendaciones y retroalimentación de los usuarios.
 * El sistema debe aplicar técnicas de ciencia de datos para analizar los datos recolectados y mejorar iterativamente los modelos de reconocimiento facial y recomendación.
 
-###Requerimientos No Funcionales:
+### Requerimientos No Funcionales:
 
 * Usabilidad: La interfaz de usuario debe ser intuitiva y fácil de usar.
 * Rendimiento: El sistema debe procesar las imágenes y generar recomendaciones en un tiempo razonable.
