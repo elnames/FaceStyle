@@ -7,8 +7,8 @@
 4. [Instalación](#instalación)
 5. [FAQs](#faqs)
 
-### Información general
-#### Alcance del proyecto
+## Información general
+### Alcance del proyecto
 ***
 El proyecto "beard" consiste en desarrollar una aplicación web y móvil que recomiende cortes de cabello para hombres, utilizando técnicas de reconocimiento facial e inteligencia artificial. La aplicación deberá:
 
