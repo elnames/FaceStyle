@@ -12,9 +12,9 @@
 El proyecto consiste en desarrollar una aplicación web y móvil que recomiende cortes de cabello para hombres, utilizando técnicas de reconocimiento facial e inteligencia artificial. La aplicación deberá:
 
 1.-Análisis de Rostro:
--Permitir al usuario cargar una foto de su rostro o tomar una con la cámara del dispositivo.
--Detectar y extraer características faciales relevantes de la imagen utilizando visión por computadora.
--Clasificar el tipo de rostro de la persona (ovalado, redondo, cuadrado, etc) mediante modelos de aprendizaje automático entrenados.
+*Permitir al usuario cargar una foto de su rostro o tomar una con la cámara del dispositivo.
+*Detectar y extraer características faciales relevantes de la imagen utilizando visión por computadora.
+*Clasificar el tipo de rostro de la persona (ovalado, redondo, cuadrado, etc) mediante modelos de aprendizaje automático entrenados.
 
 2.-Recomendación de Cortes:
 -Contar con una base de datos de diferentes cortes de cabello masculinos y sus descripciones.
