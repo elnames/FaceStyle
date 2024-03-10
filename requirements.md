@@ -1,5 +1,5 @@
 # Beard
-##Requerimientos
+## Requerimientos
 
 ## Tabla de contenidos
 1. [Requerimientos funcionales](#Requerimientos-funcionales)
