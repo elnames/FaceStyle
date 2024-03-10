@@ -2,11 +2,12 @@
 
 ## Tabla de contenidos
 1. [Información general](#Información-general)
-2. [Tecnologías](#Tecnologías)
-3. [Instalación](#instalación)
+2. [Requerimientos](#Requerimientos)
+3. [Tecnologías](#Tecnologías)
+4. [Instalación](#instalación)
 5. [FAQs](#faqs)
 
-### Información-general
+### Información general
 #### Alcance del proyecto
 ***
 El proyecto "beard" consiste en desarrollar una aplicación web y móvil que recomiende cortes de cabello para hombres, utilizando técnicas de reconocimiento facial e inteligencia artificial. La aplicación deberá:
@@ -36,7 +37,5 @@ El proyecto "beard" consiste en desarrollar una aplicación web y móvil que rec
 * Implementar buenas prácticas de ingeniería de software.
 * Permitir el fácil mantenimiento y extensión de funcionalidades en el futuro.
 
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+### Requerimientos
+* [Requerimientos](https://github.com/elnames/nms/blob/4d210195adb04ad202dbcea2901060d80abd95b6/requirements.md)
