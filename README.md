@@ -1,4 +1,4 @@
-# Beard
+# FaceStyle
 
 ## Tabla de contenidos
 1. [Información general](#Información-general)
@@ -10,7 +10,7 @@
 ## Información general
 ### Alcance del proyecto
 ***
-El proyecto "beard" consiste en desarrollar una aplicación web y móvil que recomiende cortes de cabello para hombres, utilizando técnicas de reconocimiento facial e inteligencia artificial. La aplicación deberá:
+El proyecto "FaceStyle" consiste en desarrollar una aplicación web y móvil que recomiende cortes de cabello para hombres, utilizando técnicas de reconocimiento facial e inteligencia artificial. La aplicación deberá:
 
 1.Análisis de Rostro:
 * Permitir al usuario cargar una foto de su rostro o tomar una con la cámara del dispositivo.
