@@ -1,4 +1,4 @@
-**Tecnologías Seleccionadas**
+# Tecnologías Seleccionadas
 
 **Frontend**:
 - **React Native**: Framework de JavaScript para desarrollar aplicaciones móviles nativas para iOS y Android a partir de un mismo código base. Permitirá crear una interfaz de usuario atractiva y funcional.
