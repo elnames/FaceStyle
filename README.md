@@ -39,3 +39,6 @@ El proyecto "FaceStyle" consiste en desarrollar una aplicación web y móvil que
 
 ### Requerimientos
 * [Requerimientos](https://github.com/elnames/nms/blob/4d210195adb04ad202dbcea2901060d80abd95b6/requirements.md)
+  
+### Tecnologías
+* [Tecnologías](https://github.com/elnames/FaceStyle/blob/2f4d7fe83d2debecb7a600020c8b68a89fb67dc5/Tecnolog%C3%ADas.md)
