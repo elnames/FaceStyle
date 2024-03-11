@@ -1,25 +1,25 @@
 # Tecnologías Seleccionadas
 
-**Frontend**:
+## **Frontend**:
 - **React Native**: Framework de JavaScript para desarrollar aplicaciones móviles nativas para iOS y Android a partir de un mismo código base. Permitirá crear una interfaz de usuario atractiva y funcional.
 
-**Backend**:
+## **Backend**:
 - **Django REST Framework**: Framework de Python para construir APIs RESTful. Será el backend que servirá los datos y lógica de negocio a la aplicación móvil.
 
-**Reconocimiento Facial e IA**:
+## **Reconocimiento Facial e IA**:
 - **OpenCV**: Biblioteca de visión por computadora altamente optimizada, que se utilizará para detectar rostros y extraer características faciales de las imágenes.
 - **Dlib**: Biblioteca de C++ con herramientas de machine learning y procesamiento de imágenes. Contiene un modelo preentrenado para detección de puntos de referencia faciales.  
 - **TensorFlow/Keras**: Bibliotecas de Python para construir y entrenar modelos de redes neuronales profundas que se emplearán para clasificar los tipos de rostro y recomendar cortes de cabello.
 
-**Base de Datos**:
+## **Base de Datos**:
 - **PostgreSQL**: Sistema de gestión de bases de datos robusto y de código abierto que almacenará los datos de usuarios, cortes de cabello, barberos/barberías, etc.
 
-**Otros**:
+## **Otros**:
 - **Redis**: Sistema de almacenamiento en memoria para manejar tareas en segundo plano como el procesamiento de imágenes y entrenamiento de modelos.
 - **Docker**: Para empaquetar y desplegar fácilmente la aplicación completa en diferentes entornos.
 - **Amazon Web Services (AWS)**: Servicios en la nube como S3, EC2, Lambda que se podrían utilizar para alojar la aplicación, procesar imágenes, entrenar modelos, etc.
 
-**Justificación**:
+## **Justificación**:
 
 - React Native permitirá crear una aplicación móvil nativa con excelente rendimiento y experiencia de usuario en ambas plataformas (iOS/Android).
 - Django es un framework maduro y escalable que facilita el desarrollo rápido del backend RESTful.
