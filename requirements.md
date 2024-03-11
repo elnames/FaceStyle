@@ -1,9 +1,5 @@
 # Requerimientos
 
-## Tabla de contenidos
-1. [Requerimientos funcionales](#Requerimientos-funcionales)
-2. [Requerimientos no funcionales](#Requerimientos-No-funcionales)
-
 ### Requerimientos funcionales
 * El sistema debe permitir al usuario cargar una fotografía de su rostro o tomar una con la cámara del dispositivo.
 * El sistema debe ser capaz de detectar y extraer características faciales relevantes de la imagen cargada.
